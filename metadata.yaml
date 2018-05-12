@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23582#La-Mare-au-Diable
 gutenberg_bookshelf:
 - Harvard Classics
 - FR Littérature
